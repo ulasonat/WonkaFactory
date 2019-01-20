@@ -1,0 +1,10 @@
+Kid | 1, Danny, 2004-10-15
+Kid | 2, Deans, 2002-06-12
+Kid | 3, Joe, 2007-11-23
+Kid | 4, Steve, 2003-02-11
+Kid | 5, Jimmy, 2011-01-16
+Oompa Loompa | 6, Seri, 64, strawberry
+Oompa Loompa | 7, Jeyi, 92, chocolate
+Oompa Loompa | 8, Zazu, 83, oreo
+Oompa Loompa | 9, Peri, 43, cherry
+Oompa Loompa | 10, Lala, 113, avocado

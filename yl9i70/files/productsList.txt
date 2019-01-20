@@ -1,0 +1,12 @@
+Bread filled in with chocolate, 100, 153421236, no golden ticket
+
+Bread filled in with chocolate, 100, 223462341, 5123: 2018-01-18 15:23
+
+Waffle with banana, 101, 623512263, no golden ticket
+
+Toast with avocado, 102, 333421261, no golden ticket
+
+Spaghetti with cheese, 103, 823481231, 6591: 2017-05-05 11:34
+
+Spaghetti with cheese, 103, 312463273, no golden ticket
+
