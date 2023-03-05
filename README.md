@@ -1,5 +1,7 @@
 # Wonka's Factory Management System
 
+<img src="https://img.shields.io/github/license/ulasonat/WonkaFactory">
+
 A Java program for managing a factory that produces various products, such as bread, waffles, and spaghetti, and sells them to kids. The program allows registering prize tickets, creating a new Oompa Loompa song, registering beings, registering products, ruffling tickets, registering sales, and listing winners.
 
 ## Getting Started
